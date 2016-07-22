@@ -9,5 +9,7 @@
         * [1、登录逻辑](1、登录逻辑.md)
 * [技术](练习.md)
     * [fastjson](fastjson.md)
-    * [Appendable](appendable.md)
+    * [java核心类](java核心类.md)
+        * lang包中的类
+            * [Appendable](dd.md)
 
