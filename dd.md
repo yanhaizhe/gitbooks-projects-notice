@@ -6,7 +6,7 @@ Appendable接口的实现类的对象能够被添加char序列和值。如果某
 
 Appendable 对于多线程访问而言没必要是安全的。线程安全由扩展和实现此接口的类负责。
 
-**所有已知实现类：** 
+**所有已知实现类：**
 
-
+BufferedWriter, CharArrayWriter, CharBuffer, FileWriter, FilterWriter, LogStream, OutputStreamWriter, PipedWriter, PrintStream, PrintWriter, StringBuffer, StringBuilder, StringWriter, Writer 
 
