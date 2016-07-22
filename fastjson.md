@@ -15,5 +15,6 @@
 
   ### 序列化的入口
 
-  1、通常都是用 JSON.toJSONString\(\) 这个静态方法来实现序列化。JSON是一个抽象类，实现了JSONAware（转为json串）和JSONStreamAware\(将json串写入Appendable\)
+  1、通常都是用 JSON.toJSONString\(\) 这个静态方法来实现序列化。JSON是一个抽象类，实现了JSONAware（转为json串）和JSONStreamAware\(将json串写入Appendable\)的接口
+
 
