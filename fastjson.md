@@ -6,9 +6,5 @@
 
 所涉及到的类：
 
-JSONStreamAware、JSONAware、JSON、JSONSerializer、SerializerConfig、SerializerWriter、SerializerFeature（enum）
-
-
-
-
+JSONStreamAware、JSONAware、JSON、JSONSerializer、SerializerConfig、SerializerWriter、SerializerFeature（enum）、ObjectSerializer、SerializerFilter
 
