@@ -1,4 +1,6 @@
 # Appendable
 
-Appendable接口的实现类的对象能够被添加char序列和值。如果某个类的实例打算接受取自java.util.Formatter的格式化输出，那么该类必须实现Appendable
+Appendable接口的实现类的对象能够被添加char序列和值。如果某个类的实例打算接受取自java.util.Formatter的格式化输出，那么该类必须实现Appendable接口。
+
+
 
