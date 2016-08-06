@@ -7,6 +7,7 @@
 * [业务](业务.md)
     * [bld](bld.md)
         * [1、登录逻辑](1、登录逻辑.md)
+        * 2、添加促销商品
 * [技术](练习.md)
     * [fastjson](fastjson.md)
     * [java核心类](java核心类.md)
